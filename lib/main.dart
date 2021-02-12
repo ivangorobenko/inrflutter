@@ -1,5 +1,4 @@
 import 'dart:convert';
-import 'package:awesome_flutter_app/MyChart.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -74,6 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
     super.initState();
   }
 
+  // TODO : rajouter MyChart dans le body
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -101,7 +101,6 @@ class _MyHomePageState extends State<MyHomePage> {
               ],
               rows: rows,
             ),
-            MyChart([])
           ],
         ),
       ),
