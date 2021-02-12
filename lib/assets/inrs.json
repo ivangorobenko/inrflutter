@@ -1,0 +1,25 @@
+[
+  {
+    "index": 1,
+    "value": 29,
+    "tags": [
+      "illness",
+      "operation"
+    ]
+  },
+  {
+    "index": 2,
+    "value": 32,
+    "tags": [
+      "travel",
+      "missed medication"
+    ]
+  },
+  {
+    "index": 3,
+    "value": 29,
+    "tags": [
+      "diet change"
+    ]
+  }
+]
