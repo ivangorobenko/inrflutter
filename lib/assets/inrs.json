@@ -1,5 +1,13 @@
 [
   {
+    "index": 0,
+    "value": 23,
+    "tags": [
+      "illness",
+      "operation"
+    ]
+  },
+  {
     "index": 1,
     "value": 29,
     "tags": [
